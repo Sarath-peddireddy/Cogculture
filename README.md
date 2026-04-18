@@ -8,7 +8,7 @@ Built as part of the **CogCulture Product Management Assessment** by a Senior Pr
 
 ## 🚀 Live Demo
 
-👉 **[View Live App](https://your-app.streamlit.app)** ← *(replace after deployment)*
+👉 **[View Live App]([https://your-app.streamlit.app](https://cogculture-factcheck69.streamlit.app/))** ← *(replace after deployment)*
 
 ---
 
