@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[View Live App]([https://your-app.streamlit.app](https://cogculture-factcheck69.streamlit.app/))
+👉 https://cogculture-factcheck69.streamlit.app/
 
 ---
 
