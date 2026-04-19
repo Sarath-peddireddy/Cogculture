@@ -2,13 +2,12 @@
 
 > **AI-powered PDF fact-checking web app** — Upload any document, and the agent automatically extracts claims, cross-references them against live web data, and flags inaccuracies.
 
-Built as part of the **CogCulture Product Management Assessment** by a Senior Product Manager at CogCulture, Gurugram.
 
 ---
 
 ## 🚀 Live Demo
 
-👉 **[View Live App]([https://your-app.streamlit.app](https://cogculture-factcheck69.streamlit.app/))** ← *(replace after deployment)*
+👉 **[View Live App]([https://your-app.streamlit.app](https://cogculture-factcheck69.streamlit.app/))
 
 ---
 
@@ -101,12 +100,12 @@ SERPER_API_KEY = "your-serper-api-key-here"
 ## 🔑 API Keys
 
 ### OpenAI
-- Get your key at: https://platform.openai.com/api-keys
+- Get key at: https://platform.openai.com/api-keys
 - Model used: `gpt-4o`
 - Estimated cost: ~$0.01–0.05 per PDF (depends on length and number of claims)
 
 ### Serper (Google Search API)
-- Get your free key at: https://serper.dev
+- Get free key at: https://serper.dev
 - Free tier: **2,500 searches/month** — plenty for testing
 - Used for: live web search to verify each extracted claim
 
@@ -133,14 +132,4 @@ The app is designed to catch intentional lies. To test it:
 
 ---
 
-## 📬 Submission Details
-
-| Item | Link |
-|---|---|
-| Live App | https://your-app.streamlit.app |
-| GitHub Repo | https://github.com/your-username/factcheck-agent |
-| Demo Video | *(attach 30s screen recording)* |
-
----
-
-*Built by CogCulture SPM · 2025 · [cogculture.agency](https://www.cogculture.agency)*
+*Built by sarath· 2026 · [cogculture.agency](https://www.cogculture.agency)*
